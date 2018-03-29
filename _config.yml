@@ -198,29 +198,5 @@ directionDetailsCards:
  - {title: "Transporte Público", information: 'O transporte público é bem acessível e disponível em vários locais da cidade.'}
  - {title: "Hotéis", information: 'A cidade possui ótimos hotéis e pousadas. Mais informações em breve.'}
 directionDetailsWideCards:
- # -
- #  title: "Questions?"
- #  subCards:
- #   -
- #    title: "Hotels"
- #    links:
- #     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
- #     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
- #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
- #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
- #   -
- #    title: "Registration"
- #    links:
- #     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
- #     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
- #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
- #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
- #   -
- #    title: "Attendance Details"
- #    links:
- #     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
- #     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
- #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
- #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-# Schedule Block
+ 
 scheduleWarning: "Observação: a programação ainda pode sofrer alterações sem aviso prévio."

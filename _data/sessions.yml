@@ -1,115 +1,172 @@
 -
   id: 001
   title: "Credenciamento"
-  place: "Entrada"
   service: true
 -
   id: 002
-  title: "Os desafios do desenvolvimento do app nos 33 países"
-  description: "Como CTO & Founder da Easy Taxi, Vinicius Gracia falará em sua palestra a respeito dos desafios do desenvolvimento de um aplicativo, que tem como principal objetivo ajudar a mobilidade urbana nos 33 países em que está presente. Um dos principais pontos será falar sobre a adaptação que o aplicativo precisa ter para atender as necessidades de cada região em que está presente ao redor do globo. "
-  subtype: presentation
-  speakers: [2]
-  language: pt-br
-  complexity: "intermediário"
+  title: "Abertura"
+  speakers: [1]
+  service: true
 -
   id: 003
-  title: "Café"
-  place: "Hall"
+  title: "Keynote - Foco nos Resultados, não em Funcionalidades, para Entregar Melhores Produtos"
+  speakers: [2]
   service: true
 -
   id: 004
-  title: "AngularJS: aspectos práticos visando a rapidez"
-  description: "Essa palestra visa demonstrar aspectos práticos da construção de aplicativos com AngularJS no que tange o uso de Controllers eficientes, Serviços descomplicados, Separação de responsabilidade entre entidades e a substituição do uso de $watch por Observers."
-  subtype: presentation
-  speakers: [9]
-  language: pt-br
-  complexity: "intermediário"
+  title: "Coffee-break & Networking"
+  service: true
 -
   id: 005
-  title: "O caminho de um desenvolvedor Android"
-  description: "Nesta apresentação irei mostrar minha trajetória como desenvolvedor Android, relatando os desafios enfrentados, falhas e lições aprendidas durante esses 7 anos de experiência. Explicarei os passos que considero essenciais e boas práticas que todo desenvolvedor Android precisa seguir para obter sucesso com suas apps."
-  subtype: presentation
-  speakers: [7]
-  language: pt-br
-  complexity: "intermediário"
--
-  id: 007
-  title: "Desenvolvimento de jogos para Android"
-  description: "Aprenda sobre as etapas do processo de produção e a utilização da ferramenta open-source LibGDX junto ao SDK do sistema operacional Android para criação de jogos 2D para smartphones."
-  subtype: presentation
-  speakers: [1]
-  language: pt-br
-  complexity: "intermediário"
+  title: "Sem título"
+  speakers: [3]
+  service: true
 -
   id: 006
-  title: "Conhecendo Go"
-  description: "Aprenda sobre a origem e motivações da criação da linguagem Go. Além disso, serão mostrados vários exemplos pra mostrar do que a linguagem é capaz! Essa palestra é pra você."
-  subtype: presentation
-  speakers: [3]
-  language: pt-br
-  complexity: "intermediário"
+  title: "Product Owner em máxima potência"
+  speakers: [4]
+  service: true
+-
+  id: 007
+  title: "Inteligência Relacional, o super poder dos times ágeis"
+  speakers: [5]
+  service: true
 -
   id: 008
-  title: "Almoço"
+  title: "Scrum Talks"
   service: true
 -
   id: 009
-  title: "Desenvolvimento Orientado a Testes com AngularJS"
-  description: "Criar software é fácil... difícil é mante-lo! É por isso que a prática de Test Driven Development (TDD) vem sendo muito explorada pelas maiores empresas de desenvolvimento de software do mundo. Nesta palestra vou mostrar como criar testes automatizados para o seu código Javascript e Angular.js para aumentar a produtividade e confiança dos desenvolvedores do seu projeto."
-  subtype: presentation
-  speakers: [12]
-  language: pt-br
-  complexity: "avançado"
+  title: "Workshop: Criando Produtos Digitais com Empatia"
+  speakers: [6, 7]
+  service: true
 -
   id: 010
-  title: "Animando a UI: entregue uma experiência, não apenas um aplicativo"
-  description: "Saiba como tornar sua aplicação mais atraente e eficiente através de transições animadas (sem deixar seu usuário entediado!)."
-  subtype: presentation
-  speakers: [4]
-  language: pt-br
-  complexity: "intermediário"
+  title: "Workshop: Criação de Retrospectivas"
+  speakers: [8, 9]
+  service: true
 -
   id: 011
-  title: "Go para Microserviços"
-  description: "Iremos falar de Go, hospedagem, integração contínua e deployment."
-  subtype: presentation
-  speakers: [5]
-  language: pt-br
-  complexity: "avançado"
+  title: "Mudando o comportamento de um time usando gamification"
+  speakers: [10]
+  service: true
 -
   id: 012
-  title: "Ionic Framework: aplicações móveis híbridas com HTML5 e Angular JS"
-  description: "Conheça este espetacular framework front-end para o desenvolvimento de aplicativos móveis, que entrega um conjunto rico de elementos de mobile UI, unindo excelentes tecnologias como Apache Cordova, Angular JS  e Sass."
-  subtype: presentation
-  speakers: [8]
-  language: pt-br
-  complexity: "intermediário"
+  title: "Escalando Produto e Design com Agilidade"
+  speakers: [11]
+  service: true
 -
   id: 013
-  title: "Café"
-  place: "Hall"
+  title: "Agile Estimates"
+  speakers: [30]
   service: true
 -
   id: 014
-  title: "WebRTC, transmissão de audio e vídeo Real-time com HTML5"
-  description: "Esta apresentação será um overview sobre a tecnologia WebRTC disponível hoje. E como construir um aplicativo WebRTC utilizando sua api javascript e HTML5."
-  subtype: presentation
-  speakers: [6]
-  language: pt-br
-  complexity: "avançado"
+  title: "Sem nome"
+  speakers: [31, 32]
+  service: true
 -
   id: 015
-  title: "Android L: Conheça as novidades e tendências."
-  description: "Nesta apresentação irei demostrar a evolução da plataforma Android até o Android L, que trouxe inúmeras novidades, como a nova maquina virtual ART, o projeto VOLTA, Material; e como tudo isso trouxe uma experiencia unificada entre vários tipos de dispositivos, desde smartphones até a Android TV. Além disso irei falar sobre as principais tendências do mercado mobile."
-  subtype: presentation
-  speakers: [11]
-  language: pt-br
-  complexity: "intermediário"
+  title: "A jornada do Agile Coach: O início, o fim e o meio"
+  speakers: [12, 13]
+  service: true
 -
   id: 016
-  title: "Um overview sobre as novidades e tudo o que o Google tem para desenvolvedores."
-  description: ""
-  subtype: presentation
-  speakers: [10]
-  language: pt-br
-  complexity: ""
+  title: "Sem título"
+  speakers: [14]
+  service: true
+-
+  id: 017
+  title: "Scrum Talks"
+  service: true
+-
+  id: 018
+  title: "Almoço Livre"
+  service: true
+-
+  id: 019
+  title: "As 8 instâncias do PO"
+  speakers: [15]
+  service: true
+-
+  id: 020
+  title: "Novos skills de desenvolvimento ágil num mundo de Produtos"
+  speakers: [29]
+  service: true
+-
+  id: 021
+  title: "Review, demo e apresentações, o que de fato importa para o seu produto?"
+  speakers: [23]
+  service: true
+-
+  id: 022
+  title: "Sem assunto"
+  speakers: [28]
+  service: true
+-
+  id: 023
+  title: "Workshop: Introdução ao Pensamento Lean"
+  speakers: [16]
+  service: true
+-
+  id: 024
+  title: "Workshop de Roadmap"
+  speakers: [17]
+  service: true
+-
+  id: 025
+  title: "Workshop de Onboarding: práticas, segredos e casos reais"
+  speakers: [27]
+  service: true
+-
+  id: 026
+  title: "Quando o ágil se torna waterfall"
+  speakers: [18]
+  service: true
+-
+  id: 027
+  title: "Sem assunto"
+  speakers: [22]
+  service: true
+-
+  id: 028
+  title: "Sem assunto"
+  speakers: [24]
+  service: true
+-
+  id: 029
+  title: "Como hackear o futuro"
+  speakers: [25, 26]
+  service: true
+-
+  id: 030
+  title: "Como sincronizar times de UX, UI e Desenvolvimento?"
+  speakers: [19]
+  service: true
+-
+  id: 031
+  title: "Sem assunto"
+  speakers: [20]
+  service: true
+-
+  id: 032
+  title: "Scrum Talks"
+  service: true
+-
+  id: 033
+  title: "Coffee-break & Networking"
+  service: true
+-
+  id: 034
+  title: "Coffee-break & Networking"
+  service: true
+-
+  id: 035
+  title: "Keynote - A Vida é Curta Demais para Metas Waterfall"
+  speakers: [21]
+  service: true
+-
+  id: 036
+  title: "Encerramento"
+  speakers: [22]
+  service: true

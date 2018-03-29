@@ -2,9 +2,12 @@
   date: "2014-11-01"
   dateReadable: "1º de novembro"
   tracks: 
-    - {title: "Web & Cloud", color: "#90be4e"}
-    - {title: "Mobile", color: "#03a9f4"}
-    #- {title: "Community", color: "#e91e63"}
+    - {title: "Hora", color: "#efefef" }
+    - {title: "Coragem", color: "f16b50"}
+    - {title: "Foco", color: "#fdb54f"}
+    - {title: "Comprometimento", color: "#c2ba33"}
+    - {title: "Respeito", color: "#00d463"}
+    - {title: "Abertura", color: "#01b7ab"}
   timeslots:
     - {
     	startTime: "08:00",

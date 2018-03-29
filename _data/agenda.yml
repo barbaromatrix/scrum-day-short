@@ -1,0 +1,91 @@
+- 
+  date: "2014-11-01"
+  dateReadable: "6 de junho"
+  tracks: 
+    - {title: "Hora", color: "#efefef" }
+    - {title: "Coragem", color: "f16b50"}
+    - {title: "Foco", color: "#fdb54f"}
+    - {title: "Comprometimento", color: "#c2ba33"}
+    - {title: "Respeito", color: "#00d463"}
+    - {title: "Abertura", color: "#01b7ab"}
+  timeslots:
+    - {
+      startTime: "07:50",
+      endTime: "08:50",
+      sessionIds: [001]
+    }
+    - {
+      startTime: "08:50",
+      endTime: "09:00",
+      sessionIds: [002]
+    }
+    - {
+      startTime: "09:00",
+      endTime: "10:00",
+      sessionIds: [003]
+    }
+    - {
+      startTime: "10:00",
+      endTime: "10:00",
+      sessionIds: [004]
+    }
+    - {
+      startTime: "10:30",
+      endTime: "11:10",
+      sessionIds: [005, 009, 010, 011, 014]
+    }
+    - {
+      startTime: "11:10",
+      endTime: "11:50",
+      sessionIds: [006, 009, 010, 012, 015]
+    }
+    - {
+      startTime: "11:50",
+      endTime: "12:30",
+      sessionIds: [007, 009, 010, 013, 016]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "13:00",
+    	sessionIds: [008, 009, 010, 032, 017]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "14:00",
+      sessionIds: [018]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "14:40",
+      sessionIds: [019, 023, 024, 026, 030]
+    }
+    - {
+      startTime: "14:40",
+      endTime: "15:20",
+      sessionIds: [020, 023, 024, 027, 031]
+    }
+    - {
+      startTime: "15:20",
+      endTime: "16:00",
+      sessionIds: [021, 023, 025, 028, 032]
+    }
+    - {
+      startTime: "16:00",
+      endTime: "16:40",
+      sessionIds: [022, 023, 025, 029, 033]
+    }
+    - {
+        startTime: "16:40",
+        endTime: "17:00",
+        sessionIds: [034]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "18:00",
+        sessionIds: [035]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "18:10",
+    	sessionIds: [036]
+    }
