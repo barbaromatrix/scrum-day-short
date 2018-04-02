@@ -2,7 +2,6 @@
   date: "2014-11-01"
   dateReadable: "6 de junho"
   tracks: 
-    - {title: "Hora", color: "#efefef" }
     - {title: "Coragem", color: "f16b50"}
     - {title: "Foco", color: "#fdb54f"}
     - {title: "Comprometimento", color: "#c2ba33"}

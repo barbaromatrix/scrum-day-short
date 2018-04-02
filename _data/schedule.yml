@@ -2,12 +2,9 @@
   date: "2014-11-01"
   dateReadable: "1º de novembro"
   tracks: 
-    - {title: "Hora", color: "#efefef" }
-    - {title: "Coragem", color: "f16b50"}
-    - {title: "Foco", color: "#fdb54f"}
-    - {title: "Comprometimento", color: "#c2ba33"}
-    - {title: "Respeito", color: "#00d463"}
-    - {title: "Abertura", color: "#01b7ab"}
+    - {title: "Web & Cloud", color: "#90be4e"}
+    - {title: "Mobile", color: "#03a9f4"}
+    #- {title: "Community", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "08:00",
@@ -27,7 +24,7 @@
     - {
     	startTime: "10:30",
     	endTime: "11:30",
-    	sessionIds: [004,005]
+    	sessionIds: [004,005, 003]
     }
     - {
         startTime: "11:30",
