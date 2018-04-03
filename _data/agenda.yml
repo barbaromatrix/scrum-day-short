@@ -1,8 +1,8 @@
 - 
-  date: "2014-11-01"
+  date: "2018-06-06"
   dateReadable: "6 de junho"
   tracks: 
-    - {title: "Coragem", color: "f16b50"}
+    - {title: "Coragem", color: "#f16b50"}
     - {title: "Foco", color: "#fdb54f"}
     - {title: "Comprometimento", color: "#c2ba33"}
     - {title: "Respeito", color: "#00d463"}
