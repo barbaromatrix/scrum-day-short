@@ -1,30 +1,30 @@
-# Site DevFest Norte 2014, usando GDGx Zeppelin template
+# Como popular os dados do ScrumDay 2018
+Para popular os dados do site, procurar sempre por arquivos `.yml`, pois são eles que são responsáveis por conter os dados, e estão localizados na pasta `_data`, com exceção do arquivo `_config.yml`.
 
-Este é o repositório com o conteúdo para o site oficial do [DevFest Norte 2014](http://tasafo.github.io/devfestnorte2014).
+Arquivos:
+  - agenda.yml - Possui o horário de início/fim (`startTime`/`endTime`), além da sessão correspondente (`sessionIds`). Para melhor apresentação, é viável colocar até 5 sessões.
+  - sessions.yml - Possui o identificador da sessão (`id`) e o título da sessão (`title`).
+  - speakers.yml - Arquivo que possui os dados de quem vai ministrar a palestra/workshop, possuindo o id (`id`) que é usado em sessions, o nome (`name`) e a imagem (`thumbnailUrl`).
 
-### O que é o DevFest Norte?
+Observações: 
+* Os arquivos que possuem os dados, eles podem ser configurados com o que desejar (colocar um novo detalhe para um speaker, por exemplo).
+* O arquivo `_config.yml` é responsável por possuir variáveis globais ao projeto (como por exemplo título do site, a url do site, e afins). Por tanto, é necessário cuidado ao mexer no projeto.
+* As imagens, devem ser adicionadas ao diretório `\img`.
 
-DevFest são eventos realizados pelas comunidades de desenvolvedores Google (GDG) ao redor do mundo para valorizar as comunidades locais e difundir especialmente o uso de tecnologias Google.
+___
 
-Em 2014, com a criação dos capítulos [GDG Manaus](https://developers.google.com/events/5693905808916480/), [GDG São Luis](https://developers.google.com/events/5366013551968256/) e [GDG Belém](https://developers.google.com/events/5021105662197760/), decidiu-se promover a primeira edição do evento em conjunto na cidade de Belém, em 1º de novembro de 2014.
+# Como executar em `localhost`
+- Necessário instalar: `Ruby`, `Node` (a partir da versão 6 é ok) e o `Jekyll` (instalado com o ruby);
+- Após instalado, é necessário pegar o projeto do github (`https://github.com/barbaromatrix/scrum-day-short.git`). Para que seja clonado, é necessário mandar um email/chamar no slack através do canal matheus.galdino@concrete.com.br / cs-matheus-galdino, pois o repositório está definido como privado.
+- Após o download, acessar o projeto e no local do projeto, rodar o comando `jekyll serve`. :)
+
+___
+
+# Como subir no github pages?
+- Necessário possuir a branch `gh-pages` (Que atuará como master para o GHP)
+- Criar um repositório no github
+- Acessar a área de configuração do projeto e procurar por `Github Pages`
+- Definir a branch (realizado de maneira automática com a presença da branch gh-pages)
 
 
-### Como atualizar o site do DevFest Norte?
-
-* Solicite permissão de commiter para este repositório na [lista de discussão](https://groups.google.com/forum/#!forum/devfest-norte).
-* Clone este repositório localmente em seu computador.
-* Taggeie o repositório com uma tag com a data atual (p.ex. 20140830) para facilitar retornar em caso de problemas.
-* Faça as alterações que desejar.
-* Dê commit nas alterações para o branch ```gh-pages``` e faça push para o repositório.
-* Fim.
-
-Para atualizar informações do evento como palestrantes, local, etc; tudo que você vai precisar será editar as informações correspondentes no arquivo ```_config.yml```.  Se você for commiter do repositório, pode inclusive realizar essas alterações [online](https://github.com/tasafo/site-devfestnorte/blob/gh-pages/_config.yml).  Só lembre-se de commitá-las no branch ```gh-pages``` ou elas não aparecerão online.
-
-**Lembre-se! O conteúdo deste repositório é o próprio site em produção. Portanto seja cuidadoso!**
-
-As seções do arquivo de configuração estão comentadas e os valores iniciais traduzidos, de forma que você não deve ter grandes dificuldades para fazer as atualizações que quiser.  Em caso de qualquer problema, informe na lista e reverta suas alterações ao último ponto funcional.
-
-Para mais informações,
-* [Tudo sobre o GitHub pages](https://help.github.com/categories/20/articles)
-* [Iniciando com template Zeppelin e Jekyll](https://github.com/gdg-x/zeppelin#quick-start-guide)
-
+   [Repositório]: <https://github.com/barbaromatrix/scrum-day-short.git>
