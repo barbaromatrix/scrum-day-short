@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Parâmetros do site
 title: "Scrumday 2018"
-email: "devfestnorte.org@gmail.com"
+email: "matheus.galdino@concrete.com.br"
 description: "Ótima oportunidade para indivíduos, equipes e gerentes aumentarem seu sucesso na busca por mais agilidade e melhor desenvolvimento de software."
 baseurl: "/scrum-day-short"
 url: "https://barbaromatrix.github.io/"
@@ -15,15 +15,15 @@ googleAnalyticsTrackingId: "UA-54405211-1"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 
 # Informações dos organizadores
-organizerName: "GDG Belém"
-organizerAlternateName: "Google Developer Group Belém"
+organizerName: "Concrete Solutions"
+organizerAlternateName: "Concrete Solutions"
 organizerDescription: "Comunidade aberta e voluntária que estuda, cria e dissemina tecnologias e desenvolvimento ágil em Belém do Pará."
-organizerEmail: "devfestnorte.org@gmail.com"
+organizerEmail: "matheus.galdino@concrete.com.br"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.scrumday.com.br/"
 
 # Metadados para a página
-metaKeywords: "evento, gdg, devfest, norte, amazonia, brasil, google, programacao, android, chrome, desenvolvimento, trilha, mobile, web"
+metaKeywords: "concrete, scrum, scrumDay, SCRUMDAY, evento scrum, brasil, concrete solutions, agil, trilha"
 twitterAccount: "@tasafo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -46,8 +46,8 @@ rightNavigationButtons:
  - {link: "http://www.eventick.com.br/devfest-norte-2014", text: "Inscreva-se!"}
 
 # Bloco "Hero"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "1º de novembro de 2014"
+heroTitle: "Scrum Day <typeout> 2018"
+eventDate: "6 de junho de 2018"
 typeoutTextValues: '"", "NORTE", "Belém"'
 typeoutFallback: "Temporada"
 heroButtons:
