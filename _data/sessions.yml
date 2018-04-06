@@ -1,172 +1,136 @@
 -
   id: 001
   title: "Credenciamento"
-  service: true
 -
   id: 002
   title: "Abertura"
   speakers: [1]
-  service: true
 -
   id: 003
   title: "Keynote - Foco nos Resultados, não em Funcionalidades, para Entregar Melhores Produtos"
   speakers: [2]
-  service: true
 -
   id: 004
   title: "Coffee-break & Networking"
-  service: true
 -
   id: 005
   title: "Sem título"
   speakers: [3]
-  service: true
 -
   id: 006
   title: "Product Owner em máxima potência"
   speakers: [4]
-  service: true
 -
   id: 007
   title: "Inteligência Relacional, o super poder dos times ágeis"
   speakers: [5]
-  service: true
 -
   id: 008
   title: "Scrum Talks"
-  service: true
 -
   id: 009
   title: "Workshop: Criando Produtos Digitais com Empatia"
   speakers: [6, 7]
-  service: true
 -
   id: 010
   title: "Workshop: Criação de Retrospectivas"
   speakers: [8, 9]
-  service: true
 -
   id: 011
   title: "Mudando o comportamento de um time usando gamification"
   speakers: [10]
-  service: true
 -
   id: 012
   title: "Escalando Produto e Design com Agilidade"
   speakers: [11]
-  service: true
 -
   id: 013
   title: "Agile Estimates"
   speakers: [30]
-  service: true
 -
   id: 014
   title: "Sem nome"
   speakers: [31, 32]
-  service: true
 -
   id: 015
   title: "A jornada do Agile Coach: O início, o fim e o meio"
   speakers: [12, 13]
-  service: true
 -
   id: 016
   title: "Sem título"
   speakers: [14]
-  service: true
 -
   id: 017
   title: "Scrum Talks"
-  service: true
 -
   id: 018
   title: "Almoço Livre"
-  service: true
 -
   id: 019
   title: "As 8 instâncias do PO"
   speakers: [15]
-  service: true
 -
   id: 020
   title: "Novos skills de desenvolvimento ágil num mundo de Produtos"
   speakers: [29]
-  service: true
 -
   id: 021
   title: "Review, demo e apresentações, o que de fato importa para o seu produto?"
   speakers: [23]
-  service: true
 -
   id: 022
   title: "Sem assunto"
   speakers: [28]
-  service: true
 -
   id: 023
   title: "Workshop: Introdução ao Pensamento Lean"
   speakers: [16]
-  service: true
 -
   id: 024
   title: "Workshop de Roadmap"
   speakers: [17]
-  service: true
 -
   id: 025
   title: "Workshop de Onboarding: práticas, segredos e casos reais"
   speakers: [27]
-  service: true
 -
   id: 026
   title: "Quando o ágil se torna waterfall"
   speakers: [18]
-  service: true
 -
   id: 027
   title: "Sem assunto"
   speakers: [22]
-  service: true
 -
   id: 028
   title: "Sem assunto"
   speakers: [24]
-  service: true
 -
   id: 029
   title: "Como hackear o futuro"
   speakers: [25, 26]
-  service: true
 -
   id: 030
   title: "Como sincronizar times de UX, UI e Desenvolvimento?"
   speakers: [19]
-  service: true
 -
   id: 031
   title: "Sem assunto"
   speakers: [20]
-  service: true
 -
   id: 032
   title: "Scrum Talks"
-  service: true
 -
   id: 033
   title: "Coffee-break & Networking"
-  service: true
 -
   id: 034
   title: "Coffee-break & Networking"
-  service: true
 -
   id: 035
   title: "Keynote - A Vida é Curta Demais para Metas Waterfall"
   speakers: [21]
-  service: true
 -
   id: 036
   title: "Encerramento"
   speakers: [22]
-  service: true
