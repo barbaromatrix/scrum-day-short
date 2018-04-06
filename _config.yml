@@ -47,25 +47,25 @@ rightNavigationButtons:
 
 # Bloco "Hero"
 heroTitle: "Scrum Day <typeout> 2018"
-eventDate: "6 de junho de 2018"
-typeoutTextValues: '"", "NORTE", "Belém"'
+eventDate: "8 de junho de 2018"
+typeoutTextValues: '"", "| Palestras", "| Workshops"'
 typeoutFallback: "Temporada"
 heroButtons:
  - {url: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Seja um palestrante"}
 
 # Bloco "Sobre"
-aboutTitle: "Sobre o DevFest Norte"
+aboutTitle: "Sobre o evento"
 aboutBlock:
- - {title: "Conferência", image: "conference.jpg", text: "O maior evento de tecnologias Google no norte do Brasil, conduzido por pessoas engajadas das comunidades GDG de Belém, Manaus e São Luís!  Temas interessantes, ótimos palestrantes e muita diversão!" }
- - {title: "Codelab", image: "hackathon.jpg", text: "Quer acumular experiência e resolver problemas do mundo real passando um dia trocando ideias e programando com pessoas que fazem a diferença?  Conheça e aprenda mais com Android Wear com práticas mão-na-massa." }
- - {title: "Networking", image: "workshop.jpg", text: "Amplie sua rede de networking trocando experiências e muita informação com grandes nomes das comunidades regionais de tecnologia, tudo isso num ambiente leve energizado e descontraído." }
+ - {title: "Palestras Inspiradoras", image: "conference.jpg", text: "O maior evento de tecnologias Google no norte do Brasil, conduzido por pessoas engajadas das comunidades GDG de Belém, Manaus e São Luís!  Temas interessantes, ótimos palestrantes e muita diversão!" }
+ - {title: "Scrum talks", image: "hackathon.jpg", text: "Quer acumular experiência e resolver problemas do mundo real passando um dia trocando ideias e programando com pessoas que fazem a diferença?  Conheça e aprenda mais com Android Wear com práticas mão-na-massa." }
+ - {title: "Workshops", image: "workshop.jpg", text: "Amplie sua rede de networking trocando experiências e muita informação com grandes nomes das comunidades regionais de tecnologia, tudo isso num ambiente leve energizado e descontraído." }
 
 # Bloco "Estatísticas"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "participantes", detail: "de todos os lugares"}
- - {count: "12", specialCharacter: "+", info: "horas", detail: "de conteúdo sobre tecnologias Google"}
- - {count: "10", specialCharacter: "+", info: "palestrantes", detail: "especialistas regionais"}
- - {count: "2", specialCharacter: "", info: "trilhas simultâneas", detail: "mais espaço para networking"}
+ - {count: "05", specialCharacter: "", info: "workshops práticos", detail: ""}
+ - {count: "03", specialCharacter: "", info: "scrum talks", detail: ""}
+ - {count: "21", specialCharacter: "", info: "Apresentações", detail: ""}
+ - {count: "02", specialCharacter: "", info: "Keynotes de renome", detail: ""}
 
 # Bloco "Últimas Notícias"
 latestNewsTitle: "Ultimas notícias"
