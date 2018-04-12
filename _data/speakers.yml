@@ -1,125 +1,129 @@
 - 
   id: 1
   name: "Ivan Santos"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "ivan.jpg"
 - 
   id: 2
   name: "Kurt Bittner"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "kurt_bittner_cropped.jpg"
 - 
   id: 3
   name: "Victor Lima"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
 - 
   id: 4
   name: "Rafael Jaguá"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
 -  
   id: 5
   name: "Rodrigo Giaffredo"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "rodrigo_giaffreddo.jpg"
 -  
   id: 6
   name: "Andressa Chiara"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "andressa_chiara.jpg"
 -
   id: 7
   name: "Dayane Andrade"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
 -
   id: 8
   name: "Luiz Rodrigues"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "lula.jpg"
 -
   id: 9
   name: "Samuel Cavalcante"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "samuel_cavalcante.jpg"
 -
   id: 10
   name: "Renan Melo"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "renan_melo.jpg"
 -
   id: 11
   name: "Arthur Castro"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "arthur_castro.jpg"
 -
   id: 12
   name: "Mariana Graf"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
 -
   id: 13
   name: "Thiago Soares"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
 -
   id: 14
   name: "Leonardo Pabon"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "leonardo_pabon.jpg"
 -
   id: 15
   name: "Antonio Costa"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "antonio_costa.jpg"
 -
   id: 16
   name: "Mayra Rodrigues"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
 -
   id: 17
   name: "Marcell Almeida"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "marcell_almeida.jpg"
 -
   id: 18
   name: "Otávio Souza"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
 -
   id: 19
   name: "Vitor Guerra"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "vitor_guerra.jpg"
 -
   id: 20
   name: "André Vidal"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "andre_vidal.jpg"
 -
   id: 21
   name: "Felipe Castro"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "felipe_castro.jpg"
 -
   id: 22
   name: "Kelvin Weiss"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
 -
   id: 23
   name: "Guilherme Motta"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
 -
   id: 24
-  name: "Diogo Ricker"
-  thumbnailUrl: "aldrin.jpg"
+  name: "Diogo Riker"
+  thumbnailUrl: "otavio_souza.jpg"
 -
   id: 25
   name: "Maurício Pinheiro"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "mauricio_pinheiro.jpg"
 -
   id: 26
   name: "Felipe Fernandes"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "felipe_fernandes.jpg"
+-
+  id: 27
+  name: "Raphael Farinazzo"
+  thumbnailUrl: "rafael_farinazzo.jpg"
 -
   id: 28
   name: "Victor Hugo de Oliveira"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "vitor_guerra.jpg"
 -
   id: 29
   name: "Ceci Fernandes"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
 -
   id: 30
   name: "Alexandre Mac Fadden"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
 -
   id: 31
   name: "Ari do Amaral"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
 -
   id: 32
   name: "Ewerton Santos (Ton)"
-  thumbnailUrl: "aldrin.jpg"
+  thumbnailUrl: "otavio_souza.jpg"
   

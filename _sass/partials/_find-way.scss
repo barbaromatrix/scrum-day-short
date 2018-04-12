@@ -11,7 +11,8 @@ $location-card-highlight-color: #333;
     h3 {
         position: absolute;
         top: -26px;
-        left: 52px;
+        // left: 52px;
+        right: 30px;
         color: #fff;
         @media (max-width: 767px) {
             top: 4px;

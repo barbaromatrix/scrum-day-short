@@ -194,9 +194,9 @@ logisticsMapMobileCenterCoordinates: "-2.1167705, -48.2805993"
 # Logistics Direction Details Block
 directionDetailsTitle: "Conheça Belém do Pará"
 directionDetailsCards:
- - {title: "Aeroporto", information: 'O aeroporto é bem próximo. É facilmente acessível por carro, ônibus ou taxi. Mais informações estarão disponíveis em breve.'}
- - {title: "Transporte Público", information: 'O transporte público é bem acessível e disponível em vários locais da cidade.'}
- - {title: "Hotéis", information: 'A cidade possui ótimos hotéis e pousadas. Mais informações em breve.'}
+ - {title: "Bicicleta", information: 'O bicicletário é gratuito para todos aqueles que participarem do evento!'}
+ - {title: "Carro", information: 'O estacionamento no local custa <strong>R$25,00</strong> a diária, mas dê preferência a carona solidária.'}
+ - {title: "Transporte Público", information: 'O transporte público é a forma que mais recomendamos: <br /><ul><li><strong>Estação Jurujuba</strong> (Linha 9 – Esmeralda / Osasco-Grajaú) é a mais próxima.</li><br/> <li><strong>Vans</strong> (sinalizadas com a logo do evento) que farão o translado Estação-Senac- Estação.</li></ul>'}
 directionDetailsWideCards:
  
 scheduleWarning: "Observação: a programação ainda pode sofrer alterações sem aviso prévio."
