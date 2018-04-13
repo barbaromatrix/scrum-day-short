@@ -77,19 +77,19 @@ rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
 # Bloco "Localização"
 locationBlockTitle: "Local"
-eventLocationName: "Computer Hall"
+eventLocationName: "Centro de Convenções SENAC"
 eventLocationLink: "http://www.computerhall.com.br/hall/"
-eventStreetAddress: "Av. Antônio Barreto nº 1176 (entre 9 de Janeiro e Alcindo Cacela), Umarizal"
-eventAddressLocality: "Belém"
-eventAddressLocalityRegion: "Pará"
-eventPostalCode: "66055-050"
+eventStreetAddress: "Engenheiro Eusébio Stevaux, 823 Prédio 2"
+eventAddressLocality: "Jurubatuba"
+eventAddressLocalityRegion: "São Paulo"
+eventPostalCode: "04696-000"
 eventAddressCountry: "Brasil"
-eventStartTime: "2014-11-01T08:30"
+eventStartTime: "2018-06-08T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-11-01T18:00"
-eventPlaceCoordinates: "-1.4430633,-48.4779501"
-mapCenterCoordinates: "-1.4430633,-48.4779501"
-mapMobileCenterCoordinates: "-1.4430633,-48.4779501"
+eventEndTime: "2018-06-08T18:00"
+eventPlaceCoordinates: "-23.6698635,-46.7022156"
+mapCenterCoordinates: "-23.6698635,-46.7022156"
+mapMobileCenterCoordinates: "-23.6698635,-46.7022156"
 
 # Bloco "Venue"
 venueBlockTitle: "Local"
@@ -103,8 +103,7 @@ twitterHashTag: "devfestnorte"
 
 # Bloco "Parceiros"
 organizersTitle: "Organizadores"
-partnersTitle: "Parceiros"
-partnersC4sponsorsButton: "Seja um patrocinador"
+partnersTitle: "Apoio"
 
 # Bloco "Subscreva-se"
 subscribeTitle: "Subscreva-se para novidades"
@@ -112,45 +111,31 @@ subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b052
 subscribeInfo: "Registre-se até a data do evento. Vagas limitadas. Fique ligado!"
 
 # Bloco "Tíquetes"
-btnInscrevase: "Inscreva-se"
-ticketsTitle: "Tabela de preços"
+ticketsTitle: "Inscreva-se"
 ticketsInfo: "Inscrições dão acesso a todas as trilhas de palestras, material do evento e coffee-breaks. Almoço e despesas com happy-hour não inclusas."
 ticketsOffers:
  -
-  name: "Agoniado"
-  price: "R$ 35,00"
-  priceCurrency: "BRL"
-  ticketsNumber: "100"
-  featured: true
-  ribbon: "-50%"
-  buyButtonLink: "http://www.eventick.com.br/devfest-norte-2014"
-  buyButtonText: "Garanta agora!"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-01T10:00"
-  validThrough: "2014-09-14T23:59"
-  disabled: true
- -
-  name: "Só na manha"
-  price: "R$ 50,00"
+  name: "EARLY BIRD"
+  price: "R$ 380,00"
   priceCurrency: "BRL"
   ticketsNumber: "50"
-  buyButtonLink: "http://www.eventick.com.br/devfest-norte-2014"
-  buyButtonText: "Garanta agora!"
+  buyButtonLink: "https://www.eventbrite.com.br/e/scrum-day-2018-tickets-41630743675"
+  buyButtonText: "Faça sua inscrição!"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-09-15T00:00"
-  validThrough: "2014-10-12T23:59"
-  disabled: true
+  validFrom: "2018-05-01T00:00"
+  validThrough: "2018-06-01T12:00"
+  disabled: false
  -
-  name: "Atrasildo"
-  price: "R$ 60,00"
+  name: "REGULAR"
+  price: "R$ 480,00"
   priceCurrency: "BRL"
   ticketsNumber: "50"
-  buyButtonLink: "http://www.eventick.com.br/devfest-norte-2014"
+  buyButtonLink: "https://www.eventbrite.com.br/e/scrum-day-2018-tickets-41630743675"
   buyButtonText: "Garanta o seu!"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-16T00:00"
   validThrough: "2014-11-01T12:00"
-  disabled: false
+  disabled: true
 
 # Rodapé
 socialLinks:

@@ -1,37 +1,14 @@
 - 
-  group: "Patrocinador Diamond"
-  elements:
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: '220px'}
-    - {name: "Sol", description: "Sol Informática", link: "http://www.intersol.com.br/", imageUrl: "logo-sol.png", width: '100px'}
-    - {name: "Inteceleri Soluções Ltda", description: "Inteceleri Soluções Ltda", link: "http://www.inteceleri.com.br", imageUrl: "inter_3.png", width: '100px'}
-    - {name: "Samsung SIDIA", description: "Samsung SIDIA", link: "https://www.facebook.com/SidiaMao", imageUrl: "Logo_samsung_SIDIA.png", width: '100px'}
-    - {name: "Ideias Mobile", description: "Ideias Mobile", link: "http://www.ideiasmobile.com.br", imageUrl: "logo-ideiasmobile-03.png", width: '100px'}
--
-  group: "Patrocinador Platinum"
-  elements:
-    - {name: "Pronto Digital", description: "Pronto Digital", link: "http://www.prontodigital.com.br/", imageUrl: "logo_pronto_digital.png"}
-- 
-  group: "Patrocinador Gold"
-  elements:
-    - {name: "Need Training", description: "Need Training", link: "https://www.facebook.com/NeedTraining2014", imageUrl: "need_training.png", width: '220px'}
-    - {name: "DSGX", description: "DSGX", link: "http://www.dsgx.com.br", imageUrl: "DSGX.png"}
-- 
   group: "Apoio"
   elements:
-    - {name: "Tá Safo", description: "Comunidade Tá Safo", link: "http://tasafo.org", imageUrl: 'logo-ta-safo-2013.png'}
-    - {name: "HUB 728", description: "Coworking", link: "http://www.hub728.com.br/", imageUrl: "logo-hub728.png"}
-    - {name: "EBI", description: "EBI Soluções em Tecnologia", link: "http://www.ebi.com.br/", imageUrl: "logo-ebi.png"}
-    - {name: "PHP Maranhão", description: "Comunidade PHP do Maranhão", link: "http://www.phpmaranhao.com.br/", imageUrl: "phpma-200x150.png"}
-#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-# - 
-#   group: "Information partners"
-#   elements: 
-#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+    - {name: "Agile Beer", description: "Comunidade Agile Beer", link: "https://www.facebook.com/agilebeerglobal/", imageUrl: 'agile-beer.png'}
+    - {name: "Agile School", description: "Comunidade Agile School", link: "https://www.agileschool.com.br/", imageUrl: "agile-school.png"}
+    - {name: "Papo Ágil", description: "Comunidade Papo Ágil", link: "http://papoagil.blog.br/", imageUrl: "papo-agil.png"}
+    - {name: "MétodoAgil", description: "Comunidade MétodoAgil", link: "http://www.metodoagil.com/", imageUrl: "metodo-agil.png"}
+    - {name: "Agilidade.org", description: "Comunidade Agilidade.org", link: "http://agilidade.org/", imageUrl: "agilidade.png"}
+    - {name: "Caipira Ágil", description: "Comunidade Caipira Ágil", link: "https://caipiraagil.com/", imageUrl: "caipira-agil.png"}
+    - {name: "Concrete", description: "Trabalhe com as melhores pessoas", link: "https://concrete.com.br/", imageUrl: "concrete.png"}
+    - {name: "Caiçara Ágil", description: "Comunidade Caiçara Ágil", link: "https://www.facebook.com/CaicaraAgil/", imageUrl: "caicara-agil.png"}
+    - {name: "InfoQ Brasil", description: "Comunidade InfoQ", link: "https://www.infoq.com/br/?utm_source=scrumday&utm_medium=logo-infoq&utm_campaign=parceria-eventos", imageUrl: "infoq-brasil.png"}
+    - {name: "Tá safo", description: "Comunidade Tá safo", link: "http://www.hub728.com.br/", imageUrl: "ta-safo.png"}
+    - {name: "Agile Brazil", description: "Comunidade Agile Brazil", link: "http://www.agilebrazil.com/2018/", imageUrl: "agile-brazil.png"}
