@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Parâmetros do site
 title: "Scrumday 2018"
-email: "matheus.galdino@concrete.com.br"
+email: "contato@scrumday.com.br"
 description: "Ótima oportunidade para indivíduos, equipes e gerentes aumentarem seu sucesso na busca por mais agilidade e melhor desenvolvimento de software."
 baseurl: "/scrum-day-short"
 url: "https://barbaromatrix.github.io/"
@@ -18,7 +18,7 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 organizerName: "Concrete Solutions"
 organizerAlternateName: "Concrete Solutions"
 organizerDescription: "Comunidade aberta e voluntária que estuda, cria e dissemina tecnologias e desenvolvimento ágil em Belém do Pará."
-organizerEmail: "matheus.galdino@concrete.com.br"
+organizerEmail: "contato@scrumday.com.br"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.scrumday.com.br/"
 

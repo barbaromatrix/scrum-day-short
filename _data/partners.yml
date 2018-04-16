@@ -1,7 +1,7 @@
 - 
   group: "Apoio"
   elements:
-    - {name: "Agile Beer", description: "Comunidade Agile Beer", link: "https://www.facebook.com/agilebeerglobal/", imageUrl: 'agile-beer.png'}
+    - {name: "Agile Beer", description: "Comunidade Agile Beer", link: "https://www.facebook.com/agilebeerglobal/", imageUrl: 'agile-beer.jpg'}
     - {name: "Agile School", description: "Comunidade Agile School", link: "https://www.agileschool.com.br/", imageUrl: "agile-school.png"}
     - {name: "Papo Ágil", description: "Comunidade Papo Ágil", link: "http://papoagil.blog.br/", imageUrl: "papo-agil.png"}
     - {name: "MétodoAgil", description: "Comunidade MétodoAgil", link: "http://www.metodoagil.com/", imageUrl: "metodo-agil.png"}

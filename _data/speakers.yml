@@ -2,128 +2,160 @@
   id: 1
   name: "Ivan Santos"
   thumbnailUrl: "ivan.jpg"
+  rockstar: false
 - 
   id: 2
   name: "Kurt Bittner"
   thumbnailUrl: "kurt_bittner_cropped.jpg"
+  rockstar: true
 - 
   id: 3
   name: "Victor Lima"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 - 
   id: 4
   name: "Rafael Jaguá"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 -  
   id: 5
   name: "Rodrigo Giaffredo"
   thumbnailUrl: "rodrigo_giaffreddo.jpg"
+  rockstar: true
 -  
   id: 6
   name: "Andressa Chiara"
   thumbnailUrl: "andressa_chiara.jpg"
+  rockstar: true
 -
   id: 7
   name: "Dayane Andrade"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 -
   id: 8
   name: "Luiz Rodrigues"
   thumbnailUrl: "lula.jpg"
+  rockstar: true
 -
   id: 9
   name: "Samuel Cavalcante"
   thumbnailUrl: "samuel_cavalcante.jpg"
+  rockstar: true
 -
   id: 10
   name: "Renan Melo"
   thumbnailUrl: "renan_melo.jpg"
+  rockstar: true
 -
   id: 11
   name: "Arthur Castro"
   thumbnailUrl: "arthur_castro.jpg"
+  rockstar: true
 -
   id: 12
   name: "Mariana Graf"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 -
   id: 13
   name: "Thiago Soares"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 -
   id: 14
   name: "Leonardo Pabon"
   thumbnailUrl: "leonardo_pabon.jpg"
+  rockstar: true
 -
   id: 15
   name: "Antonio Costa"
   thumbnailUrl: "antonio_costa.jpg"
+  rockstar: true
 -
   id: 16
   name: "Mayra Rodrigues"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 -
   id: 17
   name: "Marcell Almeida"
   thumbnailUrl: "marcell_almeida.jpg"
+  rockstar: true
 -
   id: 18
   name: "Otávio Souza"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 -
   id: 19
   name: "Vitor Guerra"
   thumbnailUrl: "vitor_guerra.jpg"
+  rockstar: true
 -
   id: 20
   name: "André Vidal"
   thumbnailUrl: "andre_vidal.jpg"
+  rockstar: true
 -
   id: 21
   name: "Felipe Castro"
   thumbnailUrl: "felipe_castro.jpg"
+  rockstar: true
 -
   id: 22
   name: "Kelvin Weiss"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 -
   id: 23
   name: "Guilherme Motta"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 -
   id: 24
   name: "Diogo Riker"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 -
   id: 25
   name: "Maurício Pinheiro"
   thumbnailUrl: "mauricio_pinheiro.jpg"
+  rockstar: true
 -
   id: 26
   name: "Felipe Fernandes"
   thumbnailUrl: "felipe_fernandes.jpg"
+  rockstar: true
 -
   id: 27
   name: "Raphael Farinazzo"
   thumbnailUrl: "rafael_farinazzo.jpg"
+  rockstar: true
 -
   id: 28
   name: "Victor Hugo de Oliveira"
   thumbnailUrl: "vitor_guerra.jpg"
+  rockstar: true
 -
   id: 29
   name: "Ceci Fernandes"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 -
   id: 30
   name: "Alexandre Mac Fadden"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 -
   id: 31
   name: "Ari do Amaral"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
 -
   id: 32
   name: "Ewerton Santos (Ton)"
   thumbnailUrl: "otavio_souza.jpg"
+  rockstar: true
   
