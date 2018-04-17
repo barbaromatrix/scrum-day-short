@@ -8,6 +8,7 @@
 -
   id: 003
   title: "Keynote - Foco nos Resultados, não em Funcionalidades, para Entregar Melhores Produtos"
+  description: "Gestão tradicional de produto foca em funcionalidades, coisas que a aplicação vai fazer, para definir seus produtos e lançamentos. Funcionalidades especificam como a aplicação vai funcionar. Elas são os entregáveis dos desenvolvedores.<br /> <br />Gerente de produto e usuários acreditam que definir os entregáveis é muito fácil, mas funcionalidades geralmente falham na entrega dos resultados de negócio que seus proponentes imaginam. O que está faltando é um foco claro nos resultados que os clientes ou usuários estão tentando alcançar.<br /> <br />Essa apresentação vai explorar os benefícios de uma abordagem orientada a resultados e gestão de portfólio, e como fazer dar certo, incluindo o que isso significa para os times ágeis."
   speakers: [2]
 -
   id: 004
@@ -19,10 +20,12 @@
 -
   id: 006
   title: "Product Owner em máxima potência"
+  description: "Como priorizar de verdade seu backlog e atuar para maximizar o retorno do investimento em ciclos curtos, assumindo os riscos necessário através de técnicas que lhe propiciam lidar com essa complexidade. Venha participar dessa palestra e entender as diferenças entres requisitos e hipótese e como fazer para focar no problema e auxiliar o time a atuar na solução. Método Científico, hipóteses, retorno de investimento, Resolução de Problemas e muito mais."
   speakers: [4]
 -
   id: 007
   title: "Inteligência Relacional, o super poder dos times ágeis"
+  description: "Existe um blend de qualidades que os indivíduos possuem, e sempre que elas aparecem juntas em times de profissionais, resultam em desempenho exponencial. Quer saber mais? Cola no rolê que a gente troca ideia."
   speakers: [5]
 -
   id: 008
@@ -30,18 +33,22 @@
 -
   id: 009
   title: "Workshop: Criando Produtos Digitais com Empatia"
+  description: "Criar um produto é, antes de mais nada, lidar com pessoas. Entre usuários, stakeholders e o próprio time, há muitos obstáculos e conflitos que só conseguimos solucionar se soubermos como encontrar consenso e entender as motivações de cada indivíduo. Este treinamento tem como objetivo dar as ferramentas para superar estes desafios."
   speakers: [6, 7]
 -
   id: 010
   title: "Workshop: Criação de Retrospectivas"
+  description: "Seu time não curte muito suas retrospectivas!? Retrospectivas no contexto do time geram mais engajamento do que as tradicionais. Nesta sessão exercitaremos novas formas de criar ou adaptar retrospectivas."
   speakers: [8, 9]
 -
   id: 011
   title: "Mudando o comportamento de um time usando gamification"
+  description: "Uma palestra com exemplos e ferramentas demonstrando como um time se comporta ao utilizar elementos de jogos no dia-a-dia , como inserir tais elementos no cotidiano do time e os possíveis ganhos."
   speakers: [10]
 -
   id: 012
   title: "Escalando Produto e Design com Agilidade"
+  description: "Quando Produto e Design estão alinhados, escalar é uma consequência natural. E quais foram os passos que ajudaram uma startup a conseguir isso?"
   speakers: [11]
 -
   id: 013
@@ -54,10 +61,12 @@
 -
   id: 015
   title: "A jornada do Agile Coach: O início, o fim e o meio"
+  description: "Nesta sessão vamos apresentar um compilado dos melhores insights que tivemos em nossas jornadas profissionais como Agile Coaches. A ideia é trazer algumas dicas que gostaríamos muito de ter ouvido lá atrás no início desse caminho, falar um pouco sobre o nosso momento atual, nossos desafios como profissionais e explorar um pouco algumas possibilidades para o futuro. Faremos isso de forma que você consiga se conectar com as situações e contextos que vivenciamos e possa extrair seus próprios insights para as reflexões que eventualmente você esteja fazendo nesse momento da sua carreira."
   speakers: [12, 13]
 -
   id: 016
   title: "Sem título"
+  description: ""
   speakers: [14]
 -
   id: 017
@@ -68,14 +77,17 @@
 -
   id: 019
   title: "As 8 instâncias do PO"
+  description: "Antonio é Scrum Trainer da Scrum.org, e nessa palestra ele vai fazer uma associação as 8 instâncias do SM. O objetivo é que um SM consiga fazer melhor coaching do PO e um PO consiga se desenvolver mais..."
   speakers: [15]
 -
   id: 020
   title: "Novos skills de desenvolvimento ágil num mundo de Produtos"
+  description: "Em um mundo em que falamos cada vez mais sobre desenvolver produtos, em vez de projetos, vemos mudanças de discursos e técnicas na análise de negócios, no planejamento, na priorização, na forma de mostrar o valor do que foi feito, etc. E para desenvolvedores de software, o que muda? Venha conhecer quais são as novas habilidades e técnicas para tornar todo o resto possível!"
   speakers: [29]
 -
   id: 021
   title: "Review, demo e apresentações: o que de fato importa para o seu produto?"
+  description: "Independente da metodologia de desenvolvimento de software que você utilize, existe valor em apresentar o trabalho realizado. \"..a apresentação do incremento destina-se a motivar e obter comentários e promover a colaboração.\" Baseado nos princípios, veremos os principais pontos a serem considerados nestas reuniões com o objetivo de despertar reflexões sobre o que estamos fazendo na prática."
   speakers: [23]
 -
   id: 022
@@ -84,18 +96,22 @@
 -
   id: 023
   title: "Workshop: Introdução ao Pensamento Lean"
+  description: "Nesse workshop de 2h, as pessoas participantes irão transitar, de uma maneira simples e divertida pelos diversos momentos da indústria - da Ford à revolucionária Toyota - entendendo conceitos do desenvolvimento lean de software por meio do Sistema Toyota de Produção, que tem como objetivo a redução de desperdícios, a melhora na qualidade de entrega e a diminuição do tempo e do custo de produção."
   speakers: [16]
 -
   id: 024
   title: "Workshop de Roadmap"
+  description: "Um Roadmap tradicional não é suficientemente flexível para os métodos Lean e Agile. E quando eles possuem essa flexibilidade muitas vezes são fracos estrategicamente e acabam focando muito mais em features e datas do que em uma visão estratégica geral. Nesse Workshop você vai ver vários exemplos de Roadmap e as melhores práticas de Gerentes de Produto no desenvolvimento de Roadmaps. Você também terá a chance de por a mão na massa e usar algumas das técnicas que serão demonstradas. No fim do Workshop você será capaz de criar um roadmap com uma estrutura flexível que é focado em resultados estratégicos (outcome driven) e não em features e datas (output driven)."
   speakers: [17]
 -
   id: 025
   title: "Workshop de Onboarding: práticas, segredos e casos reais"
+  description: "Os melhores apps perdem 15% dos usuários em 3 dias. Um app comum perde 70%. Métricas similares são observadas em produtos b2b. O que acontece nesse período que determina taxas tão diferentes? O onboarding!"
   speakers: [27]
 -
   id: 026
   title: "Quando o ágil se torna waterfall"
+  description: "Startups e empresas tornam as vezes o processo ágil algo tão complexo que retornam ao modelo tradicional de desenvolvimento de software. Um sprint não é um mini waterfall, é preciso entender a formula correta para cada produto e para cada time."
   speakers: [18]
 -
   id: 027
@@ -104,18 +120,22 @@
 -
   id: 028
   title: "Combatendo times tarefeiros"
+  description: "Quando falamos de agilidade, encontramos fatores como multidisciplinaridade e entrega de valor. Tendo isso em mente, olhe para o seu time e reflita: você enxerga esses aspectos presentes? A existência de silos é algo muito comum no cotidiano do seu time? A comunicação entre a área técnica e de negócios não é tão clara? O que é mais recorrente no final de cada sprint: incremento do produto ou desculpas? Nas retrospectivas, a busca por culpados é constante?<br /><br />Se essa visão é frequente em seu dia-a-dia, receio que você possui um time tarefeiro. Chega junto e veja como combater esse mal!"
   speakers: [24]
 -
   id: 029
   title: "Como hackear o futuro"
+  description: "Qual importância e os benefícios de ensinar programação às nossas próximas gerações? E como nós, mesmo sem ter experiência prévia em programação, podemos colaborar com isso?<br /><br />Se atualmente nossos professores não sabem programar, então talvez os fluentes em linguagens de computador e/ou apaixonados por tecnologia e educação poderiam ajudar ao criar clubes de programação para que os pequenos aprendam a criar coisas incríveis e super divertidas usando o computador."
   speakers: [25, 26]
 -
   id: 030
   title: "Como sincronizar times de UX, UI e Desenvolvimento?"
+  description: "Especialidades, necessidades, olhares, velocidades diferentes... Vamos debater como fazer tudo isso funcionar em harmonia :)"
   speakers: [19]
 -
   id: 031
   title: "Gestão Ágil de Produtos: Como criar um framework para o trabalho de PO"
+  description: "Tanto na Gestão Ágil de Produtos, como na aplicação de frameworks baseados em Lean Requirements, não basta apenas que o Product Owner tenha um vasto conhecimento sobre um determinado produto; é necessário também que ele compreenda o negócio, tenha visão estratégica e domine a cadeia de valor do produto.<br /><br />Nessa palestra falaremos de como estamos auxiliando Product Owners a se tornarem verdadeiros \"Donos de Produto\", criando jornadas de trabalho mais assertivas e enxutas, agregando cada vez mais valor ao negócio e a seus Stakeholders."
   speakers: [20]
 -
   id: 032
@@ -129,6 +149,7 @@
 -
   id: 035
   title: "Keynote - A Vida é Curta Demais para Metas Waterfall"
+  description: "Você está trabalhando duro para que sua empresa seja ágil, mas o mindset de comando & controle ainda está vivo. Na maioria das empresas, metas ainda são completamente waterfall: top down, anuais, com longos ciclos de feedback e \"big design upfront\".<br /> <br />Metas waterfall transformam times em fábricas de features, com autonomia limitada e sem foco na entrega de valor.  Sem mudar a forma como definimos prioridades e incentivos, nunca alcançaremos agilidade organizacional.<br /> <br />A alternativa é OKR (Objectives and Key Results) o modelo de metas ágeis utilizado por empresas como Google, Spotify e Nubank. Esse Keynote vai mostrar como você pode usar OKR para criar times autônomos, alinhados, data-driven e focados na entrega continua de valor."
   speakers: [21]
 -
   id: 036
