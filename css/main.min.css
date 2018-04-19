@@ -9,6 +9,10 @@ body {
     margin: 0
 }
 
+
+
+
+
 article,
 aside,
 details,
@@ -3236,7 +3240,8 @@ time {
     -webkit-box-flex: 1;
     -webkit-flex: 1;
     -ms-flex: 1;
-    flex: 1
+    flex: 1;
+    border-top: 1px solid #e7e7e7;
 }
 
 .reset-padding {
@@ -4585,7 +4590,7 @@ nav li a:hover {
 .lily-effect .overlay {
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
-    background: transparent
+    background: rgba(0, 0, 0, 0.3)
 }
 
 .lily-effect .lily-head {
@@ -4832,7 +4837,6 @@ nav li a:hover {
 
 .timeslot {
     background: #fff;
-    border-top: 1px solid #e7e7e7;
     border-left: 1px solid #e7e7e7
 }
 
@@ -4859,7 +4863,8 @@ nav li a:hover {
     text-align: left;
     margin: 0;
     font-size: 25px;
-    line-height: 1
+    line-height: 1;
+    border-top: 1px solid #e7e7e7;
 }
 
 .track-header-label span,
@@ -4942,7 +4947,8 @@ nav li a:hover {
     -ms-transform: translateY(0);
     transform: translateY(0);
     -webkit-transition: all 0.3s;
-    transition: all 0.3s
+    transition: all 0.3s;
+    
 }
 
 .slot-content:hover {
@@ -5060,6 +5066,12 @@ nav li a:hover {
     .lead {
         font-size: 21px
     }
+
+    .bordinha {
+        border-top: transparent;
+    }
+
+
     .dl-horizontal dt {
         float: left;
         width: 160px;
@@ -5702,9 +5714,30 @@ nav li a:hover {
     .jumbotron .h1 {
         font-size: 63px
     }
+
+    .hide-repeated {
+        display: block;
+        border-top: none;
+        /* border-top: 1px solid gainsboro; */
+    }
+    .hide-repeated .timeslot {
+        border-top: none;
+    }
 }
 
+
+
 @media (max-width: 767px) {
+    .hide-repeated {
+        display: none;
+        /* display: block; */
+        /* border-top: 1px solid gainsboro; */
+    }
+
+    .bordinha {
+        border-top: 1px solid gainsboro;
+    }
+
     .visible-xs {
         display: block !important
     }
@@ -6003,7 +6036,7 @@ nav li a:hover {
         transform: translateY(-25px)
     }
     .lily-effect:hover .overlay {
-        background: transparent
+        background: rgba(0, 0, 0, 0.3)
     }
     .lily-effect figure {
         background-position: center left;
@@ -6096,12 +6129,14 @@ nav li a:hover {
         min-height: 90px;
         border-right-width: 5px;
         border-right-style: solid;
-        border-right-color: #ccc
+        border-right-color: #ccc;
+        border-top: 1px solid gainsboro;
+        
     }
     .slot-content:hover {
         -webkit-transform: translateY(0);
         -ms-transform: translateY(0);
-        transform: translateY(0)
+        transform: translateY(0);
     }
 }
 
@@ -6109,6 +6144,7 @@ nav li a:hover {
     .visible-sm {
         display: block !important
     }
+
     table.visible-sm {
         display: table
     }
@@ -6162,6 +6198,12 @@ nav li a:hover {
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
+    .hide-repeated {
+        /* display: none; */
+        display: block;
+        border: 1px solid gainsboro;
+    }
+
     .visible-md {
         display: block !important
     }

@@ -1,0 +1,93 @@
+- 
+  date: "2018-06-06"
+  dateReadable: "6 de junho"
+  tracks: 
+    - {title: "Foco", color: "#fdb54f"}
+    - {title: "Comprometimento", color: "#c2ba33"}
+  timeslots:
+    - {
+      startTime: "07:50",
+      endTime: "08:50",
+      sessionIds: [001]
+    }
+    - {
+      startTime: "08:50",
+      endTime: "09:00",
+      sessionIds: [002]
+    }
+    - {
+      startTime: "09:00",
+      endTime: "10:00",
+      sessionIds: [003]
+    }
+    - {
+      startTime: "10:00",
+      endTime: "10:00",
+      sessionIds: [004]
+    }
+    - {
+      startTime: "10:30",
+      endTime: "13:00",
+      sessionIds: [009, 010],
+    }
+    # - {
+    #   startTime: "11:10",
+    #   endTime: "11:50",
+    #   sessionIds: [009, 010],
+    #   hasRepeated: [009, 010]
+    # }
+    # - {
+    #   startTime: "11:50",
+    #   endTime: "12:30",
+    #   sessionIds: [009, 010],
+    #   hasRepeated: [009, 010]
+    # }
+    # - {
+    # 	startTime: "12:30",
+    # 	endTime: "13:00",
+    #   sessionIds: [009, 010],
+    #   hasRepeated: [009, 010]
+    # }
+    - {
+      startTime: "13:00",
+      endTime: "14:00",
+      sessionIds: [018]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "15:20",
+      sessionIds: [023, 024],
+    }
+    # - {
+    #   startTime: "14:40",
+    #   endTime: "",
+    #   sessionIds: [023, 024],
+    #   hasRepeated: [023, 024]
+    # }
+    - {
+      startTime: "15:20",
+      endTime: "16:40",
+      sessionIds: [037, 025],
+    #   hasRepeated: [023]
+    }
+    # - {
+    #   startTime: "16:00",
+    #   endTime: "16:40",
+    #   sessionIds: [023, 025],
+    #   hasRepeated: [023, 025]
+    # }
+    - {
+        startTime: "16:40",
+        endTime: "17:00",
+        sessionIds: [034]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "18:00",
+        sessionIds: [035]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "18:10",
+    	sessionIds: [036]
+    }
