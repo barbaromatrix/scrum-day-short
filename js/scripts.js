@@ -50,9 +50,13 @@
                 var offsetActivator = topOffset + $(this).find('.slot-title').height();
                 if (currentPosition <= offsetActivator && currentPosition >= 0) {
                     $('.track-header.sticky').find('.slot-detail').html($(this).data('slotDetail'));
+                    $('.track-header.sticky').find('.slot-detail').parent().css({
+                        "color": "#FFFFFF",
+                        "background-color": $(this).data('slotDetailColor')
+                    });
                 }
             });
-        });
+        }); 
 
         $(window).resize(function() {
             if ($(window).width() > 1500) {

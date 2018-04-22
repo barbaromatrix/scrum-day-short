@@ -80,7 +80,7 @@
   speakers: [12, 13]
 -
   id: 016
-  title: "Sem título"
+  title: "State of Product Ownership"
   show: true
   description: ""
   speakers: [14]
@@ -174,7 +174,7 @@
   show: true
 -
   id: 033
-  title: "Coffee-break & Networking"
+  title: ""
   show: true
 -
   id: 034
