@@ -3253,8 +3253,8 @@ time {
 }
 
 .logo {
-    background-image: url("../img/sprites/logos.svg");
-    background-repeat: no-repeat
+    background-image: url("../img/seo/Avatar.png");
+    background-repeat: no-repeat;
 }
 
 .logo.logo-dark {
@@ -3266,7 +3266,7 @@ time {
 }
 
 .logo.logo-light {
-    background-position: 0 -127px
+    background-position: 0 0;
 }
 
 .icon {
@@ -3371,7 +3371,7 @@ time {
     display: inline-block;
     float: left;
     width: 185px;
-    height: 60px;
+    height: 120px;
     margin-right: 20px;
     -webkit-transform: scale(0.7);
     -ms-transform: scale(0.7);
@@ -3381,7 +3381,7 @@ time {
 
 .logo-navbar {
     width: 185px;
-    height: 60px;
+    height: 120px;
     margin: 8px 20px 0 -10px;
     -webkit-transform: scale(0.6);
     -ms-transform: scale(0.6);
@@ -5728,10 +5728,16 @@ nav li a:hover {
 
 
 @media (max-width: 767px) {
-    .hide-repeated {
-        display: none;
-        /* display: block; */
-        /* border-top: 1px solid gainsboro; */
+    .logo.logo-dark {
+        background-position: 0 -1px
+    }
+    
+    .logo.logo-gray {
+        background-position: 0 -63px
+    }
+    
+    .logo.logo-light {
+        background-position: 0 -127px
     }
 
     .bordinha {
@@ -5794,7 +5800,7 @@ nav li a:hover {
     .logo-header .logo {
         -webkit-transform: scale(0.6);
         -ms-transform: scale(0.6);
-        transform: scale(0.6)
+        transform: scale(0.6);
     }
     nav {
         position: fixed;

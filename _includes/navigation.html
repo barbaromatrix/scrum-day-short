@@ -1,6 +1,6 @@
 <header id="top-header" class="top-header">
     <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32" data-effect="st-effect">
-        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-svg"></use>
+        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-menu"></use>
     </svg>
     <a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
         <div class="logo logo-light"></div>
@@ -14,13 +14,5 @@
             </li>
             {% endfor %}
         </ul>
-        <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
-            {% for bottomNavigationLink in site.bottomNavigationLinks %}
-            <li>
-                <a href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" target="_blank">{{ bottomNavigationLink.text }}</a>
-            </li>
-            {% endfor %}
-        </ul>
-        
     </nav>
 </header>
