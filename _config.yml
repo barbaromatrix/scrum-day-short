@@ -57,8 +57,8 @@ heroButtons:
 # Bloco "Sobre"
 aboutTitle: "Sobre o evento"
 aboutBlock:
- - {title: "Palestras Inspiradoras", image: "conference.jpg", text: "O maior evento de tecnologias Google no norte do Brasil, conduzido por pessoas engajadas das comunidades GDG de Belém, Manaus e São Luís!  Temas interessantes, ótimos palestrantes e muita diversão!" }
- - {title: "Scrum talks", image: "hackathon.jpg", text: "Quer acumular experiência e resolver problemas do mundo real passando um dia trocando ideias e programando com pessoas que fazem a diferença?  Conheça e aprenda mais com Android Wear com práticas mão-na-massa." }
+ - {title: "Palestras Inspiradoras", image: "ken.jpg", text: "O maior evento de tecnologias Google no norte do Brasil, conduzido por pessoas engajadas das comunidades GDG de Belém, Manaus e São Luís!  Temas interessantes, ótimos palestrantes e muita diversão!" }
+ - {title: "Scrum talks", image: "open_space.jpg", text: "Quer acumular experiência e resolver problemas do mundo real passando um dia trocando ideias e programando com pessoas que fazem a diferença?  Conheça e aprenda mais com Android Wear com práticas mão-na-massa." }
  - {title: "Workshops", image: "workshop.jpg", text: "Amplie sua rede de networking trocando experiências e muita informação com grandes nomes das comunidades regionais de tecnologia, tudo isso num ambiente leve energizado e descontraído." }
 
 # Bloco "Estatísticas"
@@ -72,7 +72,7 @@ statisticBlock:
 latestNewsTitle: "Ultimas notícias"
 
 # Bloco "Palestrantes Rockstar"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Keynotes e Palestrantes"
 rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
@@ -145,11 +145,11 @@ socialLinks:
  - {link: "https://www.facebook.com/pages/DevFest-Norte/263072717236314", icon: "facebook"}
  # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
- -
-  title: "Links"
-  links:
+#  -
+  # title: "Links"
+  # links:
    # - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+  #  - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contatos"
   links:
@@ -178,7 +178,7 @@ logisticsMapCenterCoordinates: "-2.1167705, -48.2805993"
 logisticsMapMobileCenterCoordinates: "-2.1167705, -48.2805993"
 
 # Logistics Direction Details Block
-directionDetailsTitle: "Conheça Belém do Pará"
+directionDetailsTitle: "Conheça São Paulo"
 directionDetailsCards:
  - {title: "Bicicleta", information: 'O bicicletário é gratuito para todos aqueles que participarem do evento!'}
  - {title: "Carro", information: 'O estacionamento no local custa <strong>R$25,00</strong> a diária, mas dê preferência a carona solidária.'}
