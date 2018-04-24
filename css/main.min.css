@@ -3371,7 +3371,7 @@ time {
     display: inline-block;
     float: left;
     width: 185px;
-    height: 120px;
+    height: 80px;
     margin-right: 20px;
     -webkit-transform: scale(0.7);
     -ms-transform: scale(0.7);
@@ -3594,7 +3594,8 @@ nav li a:hover {
     position: relative;
     min-height: 400px;
     padding-top: 0;
-    background: #03a9f4
+    /* background: #03a9f4; */
+    background-color: #42a6de;
 }
 
 .top-section .gradient-overlay {
@@ -4134,7 +4135,6 @@ nav li a:hover {
 .find-way h3 {
     position: absolute;
     top: -26px;
-    left: 52px;
     color: #fff
 }
 
@@ -5065,6 +5065,11 @@ nav li a:hover {
 @media (min-width: 768px) {
     .lead {
         font-size: 21px
+    }
+
+    .find-way h3 {
+        position: absolute;
+        left: 41% !important;
     }
 
     .bordinha {

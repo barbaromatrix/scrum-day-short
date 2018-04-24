@@ -73,7 +73,8 @@
                         {% endif %}
                     {% endfor %}
                 ];
-                rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
+                // rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
+                console.log('rockstarSpeakers ', rockstarSpeakers);
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
                         count = {{ site.rockstarSpeakersCount }},
