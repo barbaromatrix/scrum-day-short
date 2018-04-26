@@ -82,7 +82,7 @@
   id: 016
   title: "State of Product Ownership"
   show: true
-  description: ""
+  description: "Foi um longo caminho desde o manifesto ágil. Hoje, o Scrum é o framework mais adotado. O papel do PO foi concebido para um time ágil de 3 a 10 pessoas. Na época, o principal desafio era entregar software. Hoje, as iniciativas de produto frequentemente exigem o trabalho coordenado de diversos times. Muitas vezes, chega-se a centenas de pessoas em uma iniciativa. Por outro lado, entregar software não é mais suficiente. É preciso criar impacto real na vida dos clientes e no negócio da sua empresa. O papel do product owner varia dependendo de cada um desses contextos. Veja algumas reflexões sobre o que é um PO em 2018."
   speakers: [14]
 -
   id: 017

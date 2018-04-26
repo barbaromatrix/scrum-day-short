@@ -99,8 +99,8 @@
   rockstar: true
   shown: true
   social: 
-    - {name: "linkedin", link: "https://plus.google.com/+HiarisonGigante"}
-    - {name: "twitter", link: "https://twitter.com/gigantedesousa"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arthurdecastroaraujo/"}
+    - {name: "twitter", link: "https://twitter.com/arthurklose"}
 -
   id: 12
   name: "Mariana Graf"
@@ -195,7 +195,7 @@
 -
   id: 24
   name: "Diogo Riker"
-  thumbnailUrl: "guilherme_motta.jpg"
+  thumbnailUrl: "diogo_riker.jpg"
   rockstar: false
   shown: true
   social: 
@@ -229,7 +229,7 @@
 -
   id: 28
   name: "Victor Hugo de Oliveira"
-  thumbnailUrl: "vitor_guerra.jpg"
+  thumbnailUrl: "victor_oliveira.jpg"
   rockstar: true
   shown: true
   social: 
