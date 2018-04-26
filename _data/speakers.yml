@@ -22,6 +22,8 @@
   thumbnailUrl: "ivan.jpg"
   rockstar: false
   shown: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ivanjorge/"}
 - 
   id: 3
   name: "Victor Lima"
@@ -69,7 +71,7 @@
 -
   id: 8
   name: "Luiz Rodrigues"
-  thumbnailUrl: "lula.jpg"
+  thumbnailUrl: "lula.png"
   rockstar: true
   shown: true
   social: 
