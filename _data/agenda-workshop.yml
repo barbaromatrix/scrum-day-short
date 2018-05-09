@@ -5,27 +5,27 @@
     - {title: "Foco", color: "#fdb54f"}
     - {title: "Comprometimento", color: "#c2ba33"}
   timeslots:
-    - {
-      startTime: "07:50",
-      endTime: "08:50",
-      sessionIds: [001]
-    }
-    - {
-      startTime: "08:50",
-      endTime: "09:00",
-      sessionIds: [002]
-    }
+    # - {
+    #   startTime: "07:50",
+    #   endTime: "08:50",
+    #   sessionIds: [001]
+    # }
+    # - {
+    #   startTime: "08:50",
+    #   endTime: "09:00",
+    #   sessionIds: [002]
+    # }
     
-    - {
-      startTime: "09:00",
-      endTime: "10:00",
-      sessionIds: [003]
-    }
-    - {
-      startTime: "10:00",
-      endTime: "10:30",
-      sessionIds: [004]
-    }
+    # - {
+    #   startTime: "09:00",
+    #   endTime: "10:00",
+    #   sessionIds: [003]
+    # }
+    # - {
+    #   startTime: "10:00",
+    #   endTime: "10:30",
+    #   sessionIds: [004]
+    # }
     - {
       startTime: "10:30",
       endTime: "13:00",
@@ -77,18 +77,18 @@
     #   sessionIds: [023, 025],
     #   hasRepeated: [023, 025]
     # }
-    - {
-        startTime: "16:40",
-        endTime: "17:00",
-        sessionIds: [034]
-    }
-    - {
-        startTime: "17:00",
-        endTime: "18:00",
-        sessionIds: [035]
-    }
-    - {
-    	startTime: "18:00",
-    	endTime: "18:10",
-    	sessionIds: [036]
-    }
+    # - {
+    #     startTime: "16:40",
+    #     endTime: "17:00",
+    #     sessionIds: [034]
+    # }
+    # - {
+    #     startTime: "17:00",
+    #     endTime: "18:00",
+    #     sessionIds: [035]
+    # }
+    # - {
+    # 	startTime: "18:00",
+    # 	endTime: "18:10",
+    # 	sessionIds: [036]
+    # }

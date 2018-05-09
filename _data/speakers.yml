@@ -271,4 +271,12 @@
   shown: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/ton1ewertonsantos/"}
-  
+-
+  id: 33
+  name: "André Coelho"
+  thumbnailUrl: "andre_silva.jpg"
+  rockstar: true
+  shown: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/andrebrait/"}
+    - {name: "facebook", link: "https://www.facebook.com/decomush"}

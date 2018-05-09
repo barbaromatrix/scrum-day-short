@@ -19,7 +19,7 @@
   show: true
 -
   id: 005
-  title: "Sem título"
+  title: "" # "Sem título"
   show: true
   speakers: [3]
 -
@@ -69,7 +69,7 @@
   speakers: [30]
 -
   id: 014
-  title: "Sem nome"
+  title: "" #"Sem nome"
   show: true
   speakers: [31, 32]
 -
@@ -112,9 +112,9 @@
   speakers: [23]
 -
   id: 022
-  title: "Sem assunto"
+  title: "" #"Sem assunto"
   show: true
-  speakers: [28]
+  speakers: [33]
 -
   id: 023
   title: "Workshop: Introdução ao Pensamento Lean - Parte I"
@@ -141,7 +141,7 @@
   speakers: [18]
 -
   id: 027
-  title: "Sem assunto"
+  title: "" #"Sem assunto"
   show: true
   speakers: [22]
 -
