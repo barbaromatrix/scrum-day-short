@@ -69,8 +69,9 @@
   speakers: [30]
 -
   id: 014
-  title: "" #"Sem nome"
+  title: "Como as organizações aprendem"
   show: true
+  description: "Para construir produtos e serviços realmente eficazes, as empresas estão buscando na eficiência do Agile, uma forma de aprimorar seus resultados. Mas entre as práticas, o backlog e a formação dos times, existe um verdadeiro abismo na forma em como os individuos aprendem.<br />Pensando neste GAP, nossa palestra visa resgatar a essencia da aprendizagem como estratégia corporativa na busca por diferencial competitivo nas organizações.<br />Dentre os principais questionamentos: Será que estamos aprendendo mais diante da agilidade? Podemos construir produtos melhores, aprendendo melhor? O modelo de aprendizagem atual da sua organização é efeitvo? Traz mais resultado para sua empresa ou mais custos? É possível gamificar uma grande organização?<br />Essas e outras perguntas serão conduzidas através de uma facilitação leve e da troca de experiências de todo o púlbico presente."
   speakers: [31, 32]
 -
   id: 015
