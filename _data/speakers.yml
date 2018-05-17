@@ -280,3 +280,27 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/andrebrait/"}
     - {name: "facebook", link: "https://www.facebook.com/decomush"}
+- 
+  id: 34
+  name: "Danilo Fascio"
+  thumbnailUrl: "danilo_fascio.jpg"
+  rockstar: true
+  shown: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danilo101/"}
+- 
+  id: 35
+  name: "Rodrigo Pinto"
+  thumbnailUrl: "rodrigo_pinto.jpg"
+  rockstar: true
+  shown: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigosilvap/"}
+- 
+  id: 36
+  name: "Thyago Rebelato"
+  thumbnailUrl: "thyago_rebelato.jpg"
+  rockstar: true
+  shown: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thyagorebelato/"}

@@ -3,8 +3,6 @@
   dateReadable: "8 de junho"
   tracks: 
     - {title: "Coragem", color: "#f16b50"}
-    # - {title: "Foco", color: "#fdb54f"}
-    # - {title: "Comprometimento", color: "#c2ba33"}
     - {title: "Respeito", color: "#00d463"}
     - {title: "Abertura", color: "#01b7ab"}
   timeslots:
@@ -31,22 +29,22 @@
     - {
       startTime: "10:30",
       endTime: "11:10",
-      sessionIds: [005, 011, 014] # 009, 010,
+      sessionIds: [005, 011, 014]
     }
     - {
       startTime: "11:10",
       endTime: "11:50",
-      sessionIds: [006, 012, 015], # 009, 010,
+      sessionIds: [013, 012, 015]
     }
     - {
       startTime: "11:50",
       endTime: "12:30",
-      sessionIds: [007, 013, 016], # 009, 010,
+      sessionIds: [033, 007, 016]
     }
     - {
     	startTime: "12:30",
     	endTime: "13:00",
-      sessionIds: [008, 032, 017], # 009, 010,
+      sessionIds: [008, 032, 017]
     }
     - {
       startTime: "13:00",
@@ -56,23 +54,23 @@
     - {
       startTime: "14:00",
       endTime: "14:40",
-      sessionIds: [019, 026, 030] #  023, 024,
+      sessionIds: [019, 026, 030]
     }
     - {
       startTime: "14:40",
       endTime: "15:20",
-      sessionIds: [020, 033, 031], #  023, 024,
+      sessionIds: [020, 038, 031]
       
     }
     - {
       startTime: "15:20",
       endTime: "16:00",
-      sessionIds: [021, 028, 033], # , 023, 025,
+      sessionIds: [021, 028, 006]
     }
     - {
       startTime: "16:00",
       endTime: "16:40",
-      sessionIds: [022, 029, 033] # , 023, 025,
+      sessionIds: [022, 029, 033]
     }
     - {
         startTime: "16:40",
