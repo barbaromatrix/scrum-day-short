@@ -114,7 +114,7 @@
   speakers: [23]
 -
   id: 022
-  title: "Os caçadores de Mitos: Scrum" #"Sem assunto"
+  title: "Os caçadores de Mitos: Scrum"
   show: true
   speakers: [33]
 -
@@ -205,3 +205,15 @@
   show: true
   description: "Acreditamos que a gestão atual e a governança nas organizações estão ultrapassadas e não favorecem a evolução do ser humano e do seu trabalho. Estamos lutando contra os altos níveis de desengajamento e insatisfação nas organizações, sentidos durante as nossas carreiras e verificados por diversas pesquisas de institutos especializados.<br />O que podemos fazer para dar o próximo passo em busca de uma experiência profissional mais adequada à natureza do trabalho do conhecimento? Falaremos sobre o fim da cadeia de comando (hierarquia de poder) e a substituição dela por um outro tipo de hierarquia, a do propósito, novas práticas, estudos de caso de diversas organizações que já estão avançando nessa direção (a muito tempo!) e os desafios e conquistas que estamos encontrando nessa jornada."
   speakers: [34]
+-
+  id: 039
+  title: "O que é produtividade nessa nova era?"
+  show: true
+  description: ""
+  speakers: [36]
+-
+  id: 040
+  title: "Scrum com Kanban: construindo pontes e não paredes"
+  show: true
+  description: ""
+  speakers: [35]
