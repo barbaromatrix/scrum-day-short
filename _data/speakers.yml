@@ -304,3 +304,11 @@
   shown: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/thyagorebelato/"}
+-
+  id: 37
+  name: "Silvia Cagliari"
+  thumbnailUrl: "silvia_cagliari.jpg"
+  rockstar: true
+  shown: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/silvia-cagliari-60878225/"}
